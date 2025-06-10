@@ -5,7 +5,7 @@ Submitted by: **Bhagyesh Jethwani**
 
 This web app: **Displays local**
 
-Time spent: **6** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -21,14 +21,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+- [x] Buttons or links to a related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Added a hover css style on the cards to give a border when mouse hovers over.
 
 ## Video Walkthrough
 
@@ -44,12 +44,13 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
 Describe any challenges encountered while building the app.
+
+Getting the css layout to format as I intended was a challenge as I had to refresh my skills and documentation of css styling. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Bhagyesh Jethwani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
