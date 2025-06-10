@@ -34,10 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/af4a59f06dc447c0b71979f3ad8e512b?sid=1b0c79cf-f790-43f4-9369-5ae110b1b5ef' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
+
 <div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;"><iframe src="https://www.loom.com/embed/af4a59f06dc447c0b71979f3ad8e512b?sid=75b00ed4-f3e5-415a-a9f1-0860ae66eaf9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
