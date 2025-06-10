@@ -3,7 +3,7 @@
 
 Submitted by: **Bhagyesh Jethwani**
 
-This web app: **Displays local**
+This web app: **Displays local famous food trucks in Orlando**
 
 Time spent: **4** hours spent in total
 
@@ -28,13 +28,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Added a hover css style on the cards to give a border when mouse hovers over.
+* [x] Added a hover css style on the cards to give them a border.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/af4a59f06dc447c0b71979f3ad8e512b?sid=1b0c79cf-f790-43f4-9369-5ae110b1b5ef' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
