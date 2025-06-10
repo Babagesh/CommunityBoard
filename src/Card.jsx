@@ -5,8 +5,8 @@ const Card = (props) => {
                 <img class = "truck-image" src = {props.image}/>
             </div>
             <div className = "card-body">
-                <h2 className = "card-title"> {props.name}</h2>
-                <h3 className = "card-text"> {props.style}</h3>
+                <h3 className = "card-title"> {props.name}</h3>
+                <h5 className = "card-text"> {props.style}</h5>
                 <button className = "btn btn-primary">View Menu</button>
             </div>
             
